@@ -1,0 +1,6 @@
+[submodule "final-design-server"]
+	path = final-design-server
+	url = git@github.com:Ocean-zh-Hans/final-design-server.git
+[submodule "final-design-client"]
+	path = final-design-client
+	url = git@github.com:Ocean-zh-Hans/final-design-client.git
